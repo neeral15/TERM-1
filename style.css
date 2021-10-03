@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;800&display=swap');
+
+body{
+
+font-family: 'mulish';
+background-color: peachpuff;
+}
+
+h2{
+
+    color: brown;
+    text-decoration: underline;
+}
+h1{
+    color: brown;
+    text-decoration: underline;
+
+}
+
+button{
+
+    font-family: 'mulish';
+    background: brown;
+    color: white;  
+    font-size: 120%;
+}
+
+img{
+    height: 70%;
+    }
+
+    
